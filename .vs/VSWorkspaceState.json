@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\deps",
+    "\\docs",
+    "\\src",
+    "\\src\\obclient",
+    "\\src\\observer",
+    "\\test",
+    "\\unitest"
+  ],
+  "SelectedNode": "\\src\\obclient\\client.cpp",
+  "PreviewInSolutionExplorer": false
+}
